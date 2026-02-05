@@ -1,0 +1,8 @@
+com\example\Main.class
+com\example\DietPlan.class
+com\example\LoginSignup.class
+com\example\Nutrient.class
+com\example\Food.class
+com\example\FoodResponse.class
+com\example\DatabaseConnector.class
+com\example\USDAApiCall.class
